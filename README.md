@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sameermistry2502/sameermistry2502/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sameermistry2502" alt="coding with SM"  width="60%"/><br> </div>
 
-<h1 align="center">Hi 👋, I'm Sameer Mistri</h1>
+<h1 align="center">Hi 👋, I'm Sameer Mistry</h1>
 <h3 align="center">Software Engineer | React.js, Laravel, Symfony, JavaScript, PHP | Exploring Node.js, Python, React.js and More</h3>
 
 - 🔭 I’m currently working on [API Build](https://apiproject.indianic.org/)
