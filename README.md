@@ -43,48 +43,48 @@
 ### Backend
 <div align="center">   
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/backend/php.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/Laravel.svg" alt="LARAVEL" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/node-js.svg" alt="Node.js" height="50" />   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/python.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/express.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/symfony.svg" alt="Symfony" height="50" /> 
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/backend/Laravel.svg" alt="LARAVEL" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/backend/node-js.svg" alt="Node.js" height="50" />   
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/backend/python.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/backend/express.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/backend/symfony.svg" alt="Symfony" height="50" /> 
 </div></td><td valign="top" width="33%">
 
 ### Databases
 
 <div align="center">   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/database/mysql-logo.svg" alt="My Sql" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/database/postgresql.svg" alt="Postgre Sql" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/database/mongodb.svg" alt="Mongo DB" height="50" />   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/database/redis.svg" alt="redis" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/database/mysql-logo.svg" alt="My Sql" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/database/postgresql.svg" alt="Postgre Sql" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/database/mongodb.svg" alt="Mongo DB" height="50" />   
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/database/redis.svg" alt="redis" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### Version Control
 
 <div align="center">   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/version-control/git-scm-icon.svg" alt="GIT" height="50" />    
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/version-control/git-scm-icon.svg" alt="GIT" height="50" />    
 </div></td><td valign="top" width="33%">
 
 ### Operating Systems
 
 <div align="center">   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/os/linux-original.svg" alt="Linux" height="50" />    
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/os/MacOS_logo.svg" alt="MacOs" height="50" />    
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/os/window-operating-system.svg" alt="Windows" height="50" />    
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/os/linux-original.svg" alt="Linux" height="50" />    
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/os/MacOS_logo.svg" alt="MacOs" height="50" />    
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/os/window-operating-system.svg" alt="Windows" height="50" />    
 </div></td><td valign="top" width="33%">
 
 ### Web Server
 
 <div align="center">   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/web-servers/apache.svg" alt="Apache" height="50" />    
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/web-servers/nginx-logo.svg" alt="Nginx" height="50" />       
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/web-servers/apache.svg" alt="Apache" height="50" />    
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/web-servers/nginx-logo.svg" alt="Nginx" height="50" />       
 </div></td><td valign="top" width="33%">
 
 ### Cloud & DevOps
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/devops/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/devops/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/devops/gnu_bash-icon.svg" alt="Bash" height="50" /> 
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/devops/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/devops/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistri/blob/main/images/devops/gnu_bash-icon.svg" alt="Bash" height="50" /> 
 </div></td></tr></table>  
 
 <br/>  
