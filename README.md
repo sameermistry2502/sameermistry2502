@@ -53,7 +53,7 @@
 ### Databases
 
 <div align="center">   
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry2502/blob/main/images/database/mysql-logo.svg" alt="My Sql" height="50" />  
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry2502/images/database/mysql-logo.svg" alt="My Sql" height="50" />  
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry2502/blob/main/images/database/postgresql.svg" alt="Postgre Sql" height="50" />  
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry2502/blob/main/images/database/mongodb.svg" alt="Mongo DB" height="50" />   
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry2502/blob/main/images/database/redis.svg" alt="redis" height="50" />  
