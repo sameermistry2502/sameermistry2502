@@ -47,7 +47,7 @@
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/node-js.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/python.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/express.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry2502/blob/main/images/backend/symfony.svg" alt="Symfony" height="50" /> 
+<img style="margin: 10px" src="https://github.com/sameermistry2502/sameermistry/blob/main/images/backend/symfony.svg" alt="Symfony" height="50" /> 
 </div></td><td valign="top" width="33%">
 
 ### Databases
